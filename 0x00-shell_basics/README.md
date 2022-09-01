@@ -1,1 +1,2 @@
 The first script in this project prints the absolute path nameof the current working directory
+The second script 1-listit displays the content list of the current directory
