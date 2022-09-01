@@ -7,3 +7,4 @@ this script, 5-listfilesdigitonly, displays list of files in long format but wit
 this script 6-firstdirectory creates a directory named my_irst_directory in the /tmp/ folder
 The script 7-movethatfile moves betty from /tmp/ to /tmp/my_first_directory
 This script 8-firstdelete, deletes the file Betty from the /tmp/my_first_directory folder
+This script 9-firstdirdeletion deletes the my_first_directory from /tmp/
