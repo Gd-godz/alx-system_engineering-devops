@@ -10,3 +10,4 @@ This script 8-firstdelete, deletes the file Betty from the /tmp/my_first_directo
 This script 9-firstdirdeletion deletes the my_first_directory from /tmp/
 This script 10-back changes the working directory to the previous one
 This script 11-lists all files including hidden files in the working directory, parent directory and the /boot/ directory
+This script 12-file_type prints the type of the file named iamafile
