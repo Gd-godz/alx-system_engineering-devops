@@ -9,3 +9,4 @@ This script 7-everybody, adds execute permission to owner, group owner and other
 This script 8-James_Bond gives zero permission to owneer and group, but grants all permissions to other users
 This script 9-John_Doe changes the mode of file hello
 The script 10-mirror_permissions copies the mode of olleh to hello
+The script 11-directories_permissions adds execute permission to all subdirectories of current directory for owners, group owners and other users
