@@ -11,3 +11,4 @@ This script 9-John_Doe changes the mode of file hello
 The script 10-mirror_permissions copies the mode of olleh to hello
 The script 11-directories_permissions adds execute permission to all subdirectories of current directory for owners, group owners and other users
 This script creates a directory with permissions 751
+this script 13-change_group changes the group owner to school for the hello file
