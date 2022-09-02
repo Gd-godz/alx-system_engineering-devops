@@ -8,3 +8,4 @@ This script 6-multiple_permissions, adds execute permissions to the owner and gr
 This script 7-everybody, adds execute permission to owner, group owner and other users for the file hello
 This script 8-James_Bond gives zero permission to owneer and group, but grants all permissions to other users
 This script 9-John_Doe changes the mode of file hello
+The script 10-mirror_permissions copies the mode of olleh to hello
