@@ -12,3 +12,4 @@ This script 10-back changes the working directory to the previous one
 This script 11-lists all files including hidden files in the working directory, parent directory and the /boot/ directory
 This script 12-file_type prints the type of the file named iamafile
 The script 13-symbolic_link creates a symbolic link to /bin/ls named __ls__
+this script 14-copy_html copies all HTML files from current working directory to parent directory, but only copies files that do not exist in parent directory or were newer than the versions in the parent directory
