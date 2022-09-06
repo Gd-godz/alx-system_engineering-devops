@@ -5,3 +5,4 @@ The script 3-twofiles displays the content of two files
 Thescript 4-lastlines displays the last 10 lines of the file
 The script 5-firstlines displays the first 10 lines of the file
 This script 6-thirdline displays the third line of the /etc/passwd file
+This script 7-file creates a file with a text in it
