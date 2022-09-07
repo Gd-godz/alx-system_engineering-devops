@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type da | wc -l
+ls -all | grep drw | wc -l
