@@ -10,3 +10,4 @@ The script 8-cwd_state writes into a file the result of another command
 This script deletes all regular files with extension .js that are present in this director and its subfolders >> README.md
 
 echo This script deletes all regular files with extension /.js that are present in this directory and its subfolders
+This 11-directories counts the number of directories and sub-directories in the current directory
