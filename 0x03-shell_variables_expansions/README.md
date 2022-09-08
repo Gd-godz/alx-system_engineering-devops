@@ -5,3 +5,4 @@ The script 3-paths counts the nnumber of directories in $PATH
 The script, 4-global_variables prints environment variables
 This script 5-local_variables lists all ocal variables, environment variables and functions
 This script, 6-create_local_variable creates a new local variable
+The scriot 7-create_global_variable creates a new global variable
