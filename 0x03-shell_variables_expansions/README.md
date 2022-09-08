@@ -4,3 +4,4 @@ The script 2-path, adds /action to the path, makinng it the last directory the s
 The script 3-paths counts the nnumber of directories in $PATH
 The script, 4-global_variables prints environment variables
 This script 5-local_variables lists all ocal variables, environment variables and functions
+This script, 6-create_local_variable creates a new local variable
